@@ -1,6 +1,6 @@
-# teoria-blockchain
+# Blockchain
 
-Blockchain -> carimbar no tempo qualquer informação.
+carimbar no tempo qualquer informação.
 
 ## introdução
 
